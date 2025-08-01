@@ -1,3 +1,4 @@
+||oauth2.googleapis.com^
 ||firebase.googleapis.com^
 ||shopify.com^
 ||bidmachine.io^
