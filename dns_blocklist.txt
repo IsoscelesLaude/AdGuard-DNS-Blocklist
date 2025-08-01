@@ -1,3 +1,4 @@
+||firebase.googleapis.com^
 ||shopify.com^
 ||bidmachine.io^
 ||smaato.net^
