@@ -1,3 +1,4 @@
+||amazonaws.com^
 ||scdn.co^
 aet.spotify.com
 ||spotifycdn.map.fastly.net^
