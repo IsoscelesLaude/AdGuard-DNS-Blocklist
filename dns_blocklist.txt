@@ -205,3 +205,4 @@ plus.l.google.com
 ||uxcam.com^
 ||conviva.com^
 ||sentry.io^
+||sentry.io^
