@@ -116,7 +116,6 @@ csp.withgoogle.com
 ||scorecardresearch.com^
 www.bath.ac.uk
 ||tospotify.com^
-||amazonaws.com^
 ||oceanicdreamcove.com^
 ||soriterestuff.com^
 ||smaato.com^
