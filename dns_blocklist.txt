@@ -1,3 +1,4 @@
+||gravatar.com^
 ||googleadservices.com^
 ||amazonaws.com^
 ||scdn.co^
