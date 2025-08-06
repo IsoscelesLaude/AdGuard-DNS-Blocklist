@@ -30,7 +30,6 @@
 ||api.uxcam.com^
 
 ||amazonaws.com^
-||amazonaws.com^
 public-analytics-swiggy-com-766210341.ap-southeast-1.elb.amazonaws.com
 
 aet.spotify.com
