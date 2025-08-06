@@ -5,7 +5,7 @@
 ||tac.datagroup.cn^
 
 ||reyun.org^
-||z.reyun.com^
+||reyun.com^
 
 ||trackingbird.cn^
 ||trackingbird.com^
