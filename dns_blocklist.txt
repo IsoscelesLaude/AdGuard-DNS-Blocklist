@@ -152,6 +152,10 @@ clients3.google.com
 adservice.google.com
 imap.gmail.com
 ||ggpht.com^
+||youtube.com/api/stats/ads^
+||youtube.com/pagead^
+||pagead2.googlesyndication.com^
+||securepubads.g.doubleclick.net^
 
 ||rollbar.com^
 ||bugsnag.com^
