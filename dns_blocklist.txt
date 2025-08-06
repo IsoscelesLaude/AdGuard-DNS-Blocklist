@@ -1,49 +1,38 @@
-Sentry
+
 ||sentry.io^
 ||sentry-cdn.com^
 
-Rollbar
 ||rollbar.com^
 ||api.rollbar.com^
 
-Bugsnag
 ||bugsnag.com^
 ||api.bugsnag.com^
 
-Raygun
 ||raygun.com^
 ||raygun.io^
 
-LogRocket
 ||logrocket.io^
 ||cdn.logrocket.io^
 ||app.logrocket.com^
 
-FullStory
 ||fullstory.com^
 ||fs.fullstory.com^
 
-Instabug
 ||instabug.com^
 ||api.instabug.com^
 
-Datadog
 ||datadoghq.com^
 ||browser-intake-datadoghq.com^
 ||mobile-intake-datadoghq.com^
 
-New Relic
 ||newrelic.com^
 ||bam.nr-data.net^
 
-UXCam
 ||uxcam.com^
 ||api.uxcam.com^
 
-Honeycomb.io
 ||honeycomb.io^
 
-Google
 lh3.google.com
 lh2.l.google.com
 ||googleadservices.com^
@@ -84,17 +73,14 @@ adservice.google.com
 imap.gmail.com
 ||ggpht.com^
 
-Amazon
 ||amazonaws.com^
 ||amazonaws.com^
 public-analytics-swiggy-com-766210341.ap-southeast-1.elb.amazonaws.com
 
-Spotify
 aet.spotify.com
 ||spotifycdn.map.fastly.net^
 ||tospotify.com^
 
-Tiktok
 ||bytecdn.cn^
 ||tiktokads.com^
 ||pockettiktok.com^
@@ -105,47 +91,38 @@ Tiktok
 ||ttstalker.com^
 ||tiktokv.com^
 
-Crashlytics 
 ||crashlytics.com^
 ||firebase-settings.crashlytics.com^
 
-Smaato
 ||smaato.com^
 ||smaato.net^
 ||smaato.org^
 
-LinkedIn
 ||linkedin.com^
 ||linkedin.net^
 ||linkedin.org^
 
-Facebook
 ||facebook.org^
 ||facebook.net^
 ||facebook.com^
 
-Taboola
 ||taboola.net^
 ||taboola.org^
 ||taboola.com^
 
-Almashines
 ||almashines.org^
 ||almashines.net^
 ||almashines.com^
 
-Algolia
 ||algolia.net^
 ||algolia.org^
 ||algolia.com^
 
-Adobe
 ||adobe.com^
 ||adobedc.net^
 ||adobe.io^
 ||acrobat.com^
 
-Xiaomi
 ||xiaomi.com^
 ||mi.com^
 ||xiaomi.net^
@@ -153,7 +130,6 @@ Xiaomi
 ||miboxos.com^
 ||miui.com^
 
-Baidu
 ||baidu.com^
 ||baidupan.com^
 ||baiduimg.com^
@@ -161,7 +137,6 @@ Baidu
 ||baidustatic.com^
 ||baidu.com.cn^
 
-Megacloud
 ||megacloudforest.xyz^
 ||megacloud.xyz^
 ||megacloud.blog^
@@ -171,12 +146,10 @@ Megacloud
 ||megacloud.co^
 ||megacloud.app^
 
-Adtidy
 ||adtidy.org^
 ||adtidy.com^
 ||adtidy.net^
 
-Microsoft
 ||microsoftcasualgames.com^
 ||telemetry.microsoft.com^
 
