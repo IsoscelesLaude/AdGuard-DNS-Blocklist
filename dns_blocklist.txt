@@ -12,6 +12,7 @@
 
 ||sentry.io^
 ||sentry-cdn.com^
+o33249.ingest.us.sentry.io
 
 ||raygun.com^
 ||raygun.io^
