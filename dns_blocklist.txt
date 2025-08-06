@@ -149,13 +149,16 @@ clients3.google.com
 ||googleusercontent.com^
 ||googleapis.org^
 ||googleapis.net^
-adservice.google.com
+||adservice.google.com^
 imap.gmail.com
 ||ggpht.com^
 ||youtube.com/api/stats/ads^
 ||youtube.com/pagead^
 ||pagead2.googlesyndication.com^
 ||securepubads.g.doubleclick.net^
+||adwords.google.com^
+||partnerad.l.google.com^
+||pubads.g.doubleclick.net^
 
 ||rollbar.com^
 ||bugsnag.com^
