@@ -161,6 +161,7 @@ imap.gmail.com
 ||partnerad.l.google.com^
 ||pubads.g.doubleclick.net^
 
+||temu.com^
 ||rollbar.com^
 ||bugsnag.com^
 ||honeycomb.io^
