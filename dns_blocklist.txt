@@ -114,6 +114,16 @@ aet.spotify.com
 ||aliyunhd.com^
 ||aliyunanalytics.com^
 
+||temu.com^
+||temuapps.com^
+||temustatic.com^
+||temucdn.com^
+||temucloud.com^
+||temuapi.com^
+||temu.io^
+||pddpic.com^
+||pinduoduo.com^
+
 lh3.google.com
 lh2.l.google.com
 ||googleadservices.com^
@@ -161,7 +171,6 @@ imap.gmail.com
 ||partnerad.l.google.com^
 ||pubads.g.doubleclick.net^
 
-||temu.com^
 ||rollbar.com^
 ||bugsnag.com^
 ||honeycomb.io^
