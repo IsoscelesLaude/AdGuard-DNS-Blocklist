@@ -123,6 +123,11 @@ aet.spotify.com
 ||temu.io^
 ||pddpic.com^
 ||pinduoduo.com^
+||pinduoduo.cn^
+||yangkeduo.com^
+||yangkeduo.net^
+||pdd.net^
+||pddholdings.com^
 
 lh3.google.com
 lh2.l.google.com
