@@ -358,4 +358,3 @@ ics.ecal.com
 ||msgamestudios.com^
 in.appcenter.ms
 ohttp-relay1.fastly-edge.com
-||bidmachine.io^
