@@ -178,6 +178,7 @@ imap.gmail.com
 
 ||moloco.com^
 ||personaly.bid^
+||pangle.io^
 ||lazybumblebee.com^
 ||rollbar.com^
 ||bugsnag.com^
