@@ -176,6 +176,9 @@ imap.gmail.com
 ||partnerad.l.google.com^
 ||pubads.g.doubleclick.net^
 
+||moloco.com^
+||personaly.bid^
+||lazybumblebee.com^
 ||rollbar.com^
 ||bugsnag.com^
 ||honeycomb.io^
