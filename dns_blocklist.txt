@@ -3,9 +3,6 @@
 ||scribe.twitter.com^
 ||p.twitter.com^
 ||ton.twitter.com^
-||t.co^$removeparam=utm_source
-||t.co^$removeparam=utm_medium
-||t.co^$removeparam=utm_campaign
 
 ||sc-analytics.appspot.com^
 ||tr.snapchat.com^
@@ -397,7 +394,6 @@ ohttp-relay1.fastly-edge.com
 ||experian.com^
 ||equifax.com^
 ||transunion.com^
-||oracle.com^$removeparam=ad_id
 ||bluekai.com^
 ||epsilon.com^
 ||corelogic.com^
@@ -413,9 +409,7 @@ ohttp-relay1.fastly-edge.com
 ||cambridgeanalytica.org^
 ||clearview.ai^
 ||api.clearview.ai^
-||ring.com^$removeparam=tracking
 ||tracking.ring.com^
-||yahoo.com^$removeparam=tracking
 ||tracking.tumblr.com^
 ||pardot.com^
 ||go.pardot.com^
@@ -431,7 +425,6 @@ ohttp-relay1.fastly-edge.com
 ||hs-scripts.com^
 ||hubapi.com^
 ||cdn.hubspot.com^
-||hubspot.com^$removeparam=tracking
 ||actonsoftware.com^
 ||actonservice.com^
 ||clickdimensions.com^
@@ -439,11 +432,6 @@ ohttp-relay1.fastly-edge.com
 ||links.email.aptos.com^
 ||email.cvent.com^
 ||links.cvent.com^
-||trk.email.*^
-||trk.*.email^
-
-||uber.com^$removeparam=tracking
-||api.uber.com^$removeparam=ad_id
 
 ||heap.io^
 ||heapanalytics.com^
