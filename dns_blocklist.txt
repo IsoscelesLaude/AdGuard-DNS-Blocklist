@@ -358,3 +358,4 @@ ics.ecal.com
 ||msgamestudios.com^
 in.appcenter.ms
 ohttp-relay1.fastly-edge.com
+||clevertap-prod.com^
