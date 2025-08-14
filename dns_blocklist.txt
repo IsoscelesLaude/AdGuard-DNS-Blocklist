@@ -1,4 +1,4 @@
-#||ads-twitter.com^
+||ads-twitter.com^
 ||analytics.twitter.com^
 ||scribe.twitter.com^
 ||p.twitter.com^
