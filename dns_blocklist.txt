@@ -229,6 +229,7 @@ jumbo.zomato.com
 b.zmtcdn.com
 
 ||vervegroupinc.net^
+||lunalabs.io^
 ||pusherapp.com^
 ||everestop.io^
 ||moloco.com^
