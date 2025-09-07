@@ -435,6 +435,7 @@ ohttp-relay1.fastly-edge.com
 ||bnc.lt^
 ||links.email.aptos.com^
 ||email.cvent.com^
+||vungle.com^
 ||links.cvent.com^
 
 ||heap.io^
