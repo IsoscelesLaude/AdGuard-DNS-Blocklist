@@ -1,3 +1,6 @@
+||rtbuniverse.com^
+||rtb-smartbidding.com^
+
 ||ads-twitter.com^
 ||analytics.twitter.com^
 ||scribe.twitter.com^
