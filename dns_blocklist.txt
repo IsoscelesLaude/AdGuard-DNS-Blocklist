@@ -63,6 +63,14 @@ aet.spotify.com
 
 ||bytecdn.cn^
 ||byteoversea.com^
+||bytedance.net^
+||bytedance.com^
+||iesdouyin.com^
+||amemv.com^
+||toutiao.com^
+||aweme.cn^
+||aweme.com^
+||byteimg.com^
 ||tiktokads.com^
 ||pockettiktok.com^
 ||tiktokpangle.us^
