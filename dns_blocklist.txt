@@ -62,6 +62,7 @@ aet.spotify.com
 ||tospotify.com^
 
 ||bytecdn.cn^
+||byteoversea.com^
 ||tiktokads.com^
 ||pockettiktok.com^
 ||tiktokpangle.us^
