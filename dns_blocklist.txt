@@ -451,6 +451,7 @@ ohttp-relay1.fastly-edge.com
 ||links.email.aptos.com^
 ||email.cvent.com^
 ||vungle.com^
+||blueduckredapple.com^
 ||links.cvent.com^
 
 ||heap.io^
