@@ -97,6 +97,7 @@ aet.spotify.com
 ||facebook.org^
 ||facebook.net^
 ||facebook.com^
+||fbsbx.com^
 
 ||taboola.net^
 ||taboola.org^
