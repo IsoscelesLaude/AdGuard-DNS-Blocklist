@@ -51,9 +51,6 @@ o33249.ingest.us.sentry.io
 ||newrelic.com^
 ||bam.nr-data.net^
 
-||uxcam.com^
-||api.uxcam.com^
-
 ||amazonaws.com^
 public-analytics-swiggy-com-766210341.ap-southeast-1.elb.amazonaws.com
 
@@ -454,6 +451,7 @@ ohttp-relay1.fastly-edge.com
 ||vungle.com^
 ||blueduckredapple.com^
 ||links.cvent.com^
+||uxcam.com^
 
 ||heap.io^
 ||heapanalytics.com^
