@@ -275,6 +275,7 @@ b.zmtcdn.com
 ||events.redditmedia.com^
 
 ||moengage.com^
+||thecatmachine.com^
 ||useinsider.com^
 ||braze.com^
 ||onesignal.com^
