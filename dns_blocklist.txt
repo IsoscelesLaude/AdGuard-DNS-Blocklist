@@ -477,4 +477,5 @@ ohttp-relay1.fastly-edge.com
 ||blueduckredapple.com^
 ||links.cvent.com^
 ||uxcam.com^
+||mtgglobals.com^
 ||qa-analytics.com^
