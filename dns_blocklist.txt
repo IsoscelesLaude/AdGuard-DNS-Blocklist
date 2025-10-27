@@ -266,6 +266,7 @@ b.zmtcdn.com
 ||pixel.redditmedia.com^
 ||events.redditmedia.com^
 
+||sharepoint.com^
 ||moengage.com^
 ||thecatmachine.com^
 ||useinsider.com^
