@@ -60,6 +60,12 @@ o33249.ingest.us.sentry.io
 
 ||amazonaws.com^
 public-analytics-swiggy-com-766210341.ap-southeast-1.elb.amazonaws.com
+||amazon-adsystem.com^
+||ads.amazon.com^
+||ads-api.amazon.com^
+||fls-na.amazon.com^
+||analytics.amazon.com^
+||assoc-amazon.com^
 
 aet.spotify.com
 ||spotifycdn.map.fastly.net^
