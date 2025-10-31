@@ -66,6 +66,8 @@ public-analytics-swiggy-com-766210341.ap-southeast-1.elb.amazonaws.com
 ||fls-na.amazon.com^
 ||analytics.amazon.com^
 ||assoc-amazon.com^
+||aiv-cdn.net^
+||aiv-delivery.net^
 
 aet.spotify.com
 ||spotifycdn.map.fastly.net^
