@@ -240,7 +240,6 @@ clients3.google.com
 
 consumermqtt.zomato.com
 jumbo.zomato.com
-b.zmtcdn.com
 
 ||adjust.com^
 ||adjust.io^
