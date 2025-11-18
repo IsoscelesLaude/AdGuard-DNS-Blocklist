@@ -227,10 +227,6 @@ aet.spotify.com
 ||megacloud.co^
 ||megacloud.app^
 
-||adtidy.org^
-||adtidy.com^
-||adtidy.net^
-
 ||microsoftcasualgames.com^
 ||telemetry.microsoft.com^
 
