@@ -251,6 +251,7 @@ aet.spotify.com
 
 lh3.google.com
 lh2.l.google.com
+clients.l.google.com
 ||googleadservices.com^
 ||analytics.google.com^
 ||securetoken.googleapis.com^
