@@ -274,7 +274,6 @@ www.google.co.in
 apis.google.com
 plus.l.google.com
 clients3.google.com
-||googleusercontent.com^
 ||googleapis.org^
 ||googleapis.net^
 ||adservice.google.com^
