@@ -253,6 +253,10 @@ lh3.google.com
 lh2.l.google.com
 clients.l.google.com
 clients1.google.com
+ogs.google.com
+waa-pa.clients6.google.com
+ytimg.l.google.com
+www3.l.google.com
 ||googleadservices.com^
 ||analytics.google.com^
 ||securetoken.googleapis.com^
@@ -269,7 +273,6 @@ firebaselogging-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
 mtalk.google.com
 ||doubleclick.net^
-accounts.google.com
 ogads-pa.clients6.google.com
 csp.withgoogle.com
 www.google.co.in
