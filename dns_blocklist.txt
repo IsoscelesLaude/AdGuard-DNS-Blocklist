@@ -144,6 +144,7 @@ public-analytics-swiggy-com-766210341.ap-southeast-1.elb.amazonaws.com
 ||aiv-cdn.net^
 ||aiv-delivery.net^
 aes.eu-south.ono.axp.amazon-adsystem.com
+aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com
 
 aet.spotify.com
 ||spotifycdn.map.fastly.net^
