@@ -350,6 +350,8 @@ jumbo.zomato.com
 ||pixel.redditmedia.com^
 ||events.redditmedia.com^
 
+||livegamespro.games^
+||bing.com^
 ||sharepoint.com^
 ||moengage.com^
 ||thecatmachine.com^
